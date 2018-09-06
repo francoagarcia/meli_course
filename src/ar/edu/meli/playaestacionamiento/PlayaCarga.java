@@ -9,6 +9,7 @@ import java.util.stream.Stream;
 public class PlayaCarga extends Playa<Cargable> {
 
     private List<Carga> cargas = new ArrayList<>();
+    private List<Carga> cargasDespachadas = new ArrayList<>();
 
     public PlayaCarga(int limiteVehiculos) {
         super(limiteVehiculos);
@@ -31,6 +32,7 @@ public class PlayaCarga extends Playa<Cargable> {
             if (cargaInsertar.isPresent()) {
                 cargable.agregarCarga(cargaInsertar.get());
                 this.cargas.remove(cargaInsertar.get());
+                this.cargasDespachadas.add(cargaInsertar.get());
             }
         }
     }
@@ -44,7 +46,7 @@ public class PlayaCarga extends Playa<Cargable> {
     }
 
     double informarCargaDespachada(){
-        return this.vehiculos.stream().mapToDouble(Cargable::cargaActual).sum();
+        return this.cargasDespachadas.stream().mapToDouble(Carga::getPeso).sum();
     }
 
     List<Camioneta> informarCamionetasVacias(){
