@@ -3,7 +3,7 @@ package ar.edu.meli.playaestacionamiento;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class Playa<T extends Vehiculo> {
+public abstract class Playa<T> {
 
     protected int limiteVehiculos;
 
@@ -11,10 +11,6 @@ public abstract class Playa<T extends Vehiculo> {
 
     public Playa(int limiteVehiculos) {
         this.limiteVehiculos = limiteVehiculos;
-    }
-
-    public int getLimiteVehiculos() {
-        return limiteVehiculos;
     }
 
     void ingresoVehiculo(T vehiculo){

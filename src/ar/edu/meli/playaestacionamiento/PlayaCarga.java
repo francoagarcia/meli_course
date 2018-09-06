@@ -6,7 +6,7 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class PlayaCarga extends Playa<Utilitario> {
+public class PlayaCarga extends Playa<Cargable> {
 
     private List<Carga> cargas = new ArrayList<>();
 
@@ -15,21 +15,24 @@ public class PlayaCarga extends Playa<Utilitario> {
     }
 
     @Override
-    void ingresoVehiculo(Utilitario utilitario){
+    void ingresoVehiculo(Cargable utilitario){
         if  (limiteVehiculos > vehiculos.size()){
-
-            if (!cargas.isEmpty()) {
-                double cargaDisponible = utilitario.cargaRestante();
-                Optional<Carga> cargaInsertar = this.cargas.stream().filter(carga -> carga.getPeso() < cargaDisponible).findAny();
-
-                if (cargaInsertar.isPresent()) {
-                    utilitario.agregarCarga(cargaInsertar.get());
-                    this.cargas.remove(cargaInsertar.get());
-                }
-            }
+            insertarCargaEnVehiculo(utilitario);
             vehiculos.add(utilitario);
         }
 
+    }
+
+    private void insertarCargaEnVehiculo(Cargable cargable){
+        if (!cargas.isEmpty()) {
+            double cargaDisponible = cargable.cargaRestante();
+            Optional<Carga> cargaInsertar = this.cargas.stream().filter(carga -> carga.getPeso() < cargaDisponible).findAny();
+
+            if (cargaInsertar.isPresent()) {
+                cargable.agregarCarga(cargaInsertar.get());
+                this.cargas.remove(cargaInsertar.get());
+            }
+        }
     }
 
     void agregarCarga(Carga carga){
@@ -41,15 +44,15 @@ public class PlayaCarga extends Playa<Utilitario> {
     }
 
     double informarCargaDespachada(){
-        return this.vehiculos.stream().mapToDouble(vehiculo -> vehiculo.cargaActual()).sum();
+        return this.vehiculos.stream().mapToDouble(Cargable::cargaActual).sum();
     }
 
-    List<Camioneta> informarUtilitariosVacios(){
+    List<Camioneta> informarCamionetasVacias(){
         return this.vehiculos
                 .stream()
                 .filter(vehiculo -> vehiculo instanceof Camioneta)
-                .filter(vehiculo -> vehiculo.estaVacia())
                 .map(vehiculo -> (Camioneta) vehiculo)
+                .filter(Camioneta::estaVacia)
                 .collect(Collectors.toList());
     }
 }
