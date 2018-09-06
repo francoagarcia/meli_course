@@ -7,5 +7,11 @@ public class PlayaEstacionamiento extends Playa<Auto> {
         super(limiteVehiculos);
     }
 
+    @Override
+    void ingresoVehiculo(Auto vehiculo){
+        if  (limiteVehiculos > vehiculos.size()){
+            vehiculos.add(vehiculo);
+        }
+    }
 
 }

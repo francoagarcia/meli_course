@@ -3,7 +3,7 @@ package ar.edu.meli.playaestacionamiento;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Utilitario implements Cargable {
+public abstract class Utilitario implements Cargable {
 
     protected double cargaMaxima;
 
@@ -14,7 +14,7 @@ public class Utilitario implements Cargable {
     }
 
     public double cargaRestante(){
-        return this.cargaMaxima - this.cargas.stream().mapToDouble(carga -> carga.getPeso()).sum();
+        return this.cargaMaxima - this.cargas.stream().mapToDouble(Carga::getPeso).sum();
     }
 
     public double cargaActual(){

@@ -13,11 +13,7 @@ public abstract class Playa<T> {
         this.limiteVehiculos = limiteVehiculos;
     }
 
-    void ingresoVehiculo(T vehiculo){
-       if  (limiteVehiculos > vehiculos.size()){
-           vehiculos.add(vehiculo);
-       }
-    }
+    abstract void ingresoVehiculo(T vehiculo);
 
     public List<T> getVehiculos() {
         return vehiculos;
