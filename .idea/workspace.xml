@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ced08c6-954d-41aa-a92b-54107117d65c" name="Default Changelist" comment="" />
+    <list default="true" id="7ced08c6-954d-41aa-a92b-54107117d65c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +15,11 @@
     <session id="1668576725">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -24,8 +27,8 @@
           <entry key="class" value="1" />
           <entry key="classpath" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="37" />
-          <entry key="txt" value="5" />
+          <entry key="java" value="59" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -33,20 +36,20 @@
           <entry key="CLASS" value="1" />
           <entry key="Eclipse" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="37" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JAVA" value="59" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="83" />
-          <entry key="java" value="4432" />
+          <entry key="java" value="6573" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="83" />
-          <entry key="JAVA" value="4432" />
+          <entry key="JAVA" value="6573" />
         </counts>
       </usages-collector>
     </session>
@@ -55,15 +58,119 @@
     <favorites_list name="IT-Accelerator" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cliente.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Playa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+            <state relative-caret-position="390">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
               <folding>
-                <element signature="e#964#965#0" expanded="true" />
-                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/PlayaCarga.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
+                <element signature="e#1030#1031#0" expanded="true" />
+                <element signature="e#1115#1116#0" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/playaestacionamiento/PlayaCargaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="74" column="82" lean-forward="true" selection-start-line="74" selection-start-column="82" selection-end-line="74" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Carga.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/playaestacionamiento/PlayaEstacionamientoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Camioneta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Camion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/PlayaEstacionamiento.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Utilitario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,6 +184,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,6 +215,19 @@
         <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cliente.java" />
         <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/CajaDeAhorroEspecial.java" />
         <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/Motor.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Vehiculo.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Auto.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Uit.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Carga.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/PlayaEstacionamiento.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Utilitario.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Playa.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Camioneta.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Camion.java" />
+        <option value="$PROJECT_DIR$/test/ar/edu/meli/playaestacionamiento/PlayaEstacionamientoTest.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Cargable.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/PlayaCarga.java" />
+        <option value="$PROJECT_DIR$/test/ar/edu/meli/playaestacionamiento/PlayaCargaTest.java" />
       </list>
     </option>
   </component>
@@ -117,12 +242,15 @@
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,6 +272,13 @@
             <path>
               <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="meli" type="462c0819:PsiDirectoryNode" />
+              <item name="playaestacionamiento" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -157,7 +292,14 @@
               <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="meli" type="462c0819:PsiDirectoryNode" />
-              <item name="cuentas" type="462c0819:PsiDirectoryNode" />
+              <item name="cerradura" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="meli" type="462c0819:PsiDirectoryNode" />
+              <item name="playaestacionamiento" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,25 +307,26 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536191974803" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536245483142" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ar.edu.meli.cerradura" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ar.edu.meli.playaestacionamiento" />
       <recent name="ar.edu.meli.cuentas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -202,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ar.edu.meli.cuentas in IT-Accelerator">
+  <component name="RunManager" selected="JUnit.ar.edu.meli.playaestacionamiento in IT-Accelerator">
     <configuration name="All in IT-Accelerator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Accelerator" />
       <option name="PACKAGE_NAME" value="" />
@@ -221,22 +364,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="ar.edu.meli.cerradura" />
       <option name="MAIN_CLASS_NAME" value="ar.edu.meli.cerradura.CerraduraTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CerraduraTest.crearLaCerraduraYPuedeAbrirse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="IT-Accelerator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ar.edu.meli.cerradura.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ar.edu.meli.cerradura" />
-      <option name="MAIN_CLASS_NAME" value="ar.edu.meli.cerradura.CerraduraTest" />
-      <option name="METHOD_NAME" value="crearLaCerraduraYPuedeAbrirse" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,20 +396,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IT-Accelerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.meli.playaestacionamiento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.meli.playaestacionamiento" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.CerraduraTest" />
-      <item itemvalue="JUnit.CerraduraTest.crearLaCerraduraYPuedeAbrirse" />
       <item itemvalue="JUnit.All in IT-Accelerator" />
       <item itemvalue="JUnit.CuentaSueldoTest" />
       <item itemvalue="JUnit.ar.edu.meli.cuentas in IT-Accelerator" />
+      <item itemvalue="JUnit.ar.edu.meli.playaestacionamiento in IT-Accelerator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ar.edu.meli.playaestacionamiento in IT-Accelerator" />
         <item itemvalue="JUnit.ar.edu.meli.cuentas in IT-Accelerator" />
         <item itemvalue="JUnit.CuentaSueldoTest" />
         <item itemvalue="JUnit.All in IT-Accelerator" />
         <item itemvalue="JUnit.CerraduraTest" />
-        <item itemvalue="JUnit.CerraduraTest.crearLaCerraduraYPuedeAbrirse" />
       </list>
     </recent_temporary>
   </component>
@@ -297,50 +438,52 @@
       <option name="presentableId" value="Default" />
       <updated>1536153045467</updated>
       <workItem from="1536153047062" duration="1624000" />
-      <workItem from="1536156290731" duration="16563000" />
+      <workItem from="1536156290731" duration="17257000" />
+      <workItem from="1536192887146" duration="7336000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 15h 58m 44s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 15h 58m 53s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 00m 40s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 13m 03s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 14m 41s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 15m 23s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 30m 28s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 32m 01s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 33m 54s.xml">
-      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.05 at 16h 40m 18s.xml">
       <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ar_edu_meli_cuentas_in_IT-Accelerator - 2018.09.06 at 10h 29m 05s.xml">
+      <configuration name="ar.edu.meli.cuentas in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 10h 29m 23s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 10h 55m 09s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 11h 29m 32s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 11h 33m 36s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 11h 37m 54s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 11h 40m 28s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 11h 42m 52s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ar_edu_meli_playaestacionamiento_in_IT-Accelerator - 2018.09.06 at 11h 46m 48s.xml">
+      <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18187000" />
+    <option name="totallyTimeSpent" value="26217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.14377682" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.14592275" />
+      <window_info id="Structure" order="1" sideWeight="0.50363195" side_tool="true" weight="0.14592275" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -349,7 +492,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32765958" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.4141844" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.4141844" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -368,6 +511,36 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.14592275" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50363195" side_tool="true" weight="0.14377682" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32765958" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.4141844" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -390,9 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cerradura/tragamonedas.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cerradura/cerradura.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -411,16 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/cerradura/CerraduraTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,16 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/Motor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/Motor.java" />
     <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cuenta.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -554,12 +705,145 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        <state relative-caret-position="300">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding>
             <element signature="e#964#965#0" expanded="true" />
             <element signature="e#1007#1008#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cerradura/tragamonedas.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Vehiculo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/cerradura/CerraduraTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/PlayaEstacionamiento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Playa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Utilitario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Cargable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Camioneta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Camion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Carga.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/playaestacionamiento/PlayaEstacionamientoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/PlayaCarga.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/playaestacionamiento/PlayaCargaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="74" column="82" lean-forward="true" selection-start-line="74" selection-start-column="82" selection-end-line="74" selection-end-column="82" />
         </state>
       </provider>
     </entry>
