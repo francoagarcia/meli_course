@@ -23,11 +23,8 @@ public class Tragamonedas {
     public boolean entregarPremio(){
         Tambor primerTambor =  this.tambores.stream().findFirst().get();
 
-        Stream<Tambor> stream = this.tambores
-                            .stream();
-        boolean result = stream.reduce(true,
-                (accum, next) -> next.obtenerPosicion().equals(primerTambor.obtenerPosicion()),
-                Boolean::logicalAnd);
+        Stream<Tambor> stream = this.tambores.stream();
+        boolean result = stream.reduce(true, (accum, next) -> next.obtenerPosicion().equals(primerTambor.obtenerPosicion()), Boolean::logicalAnd);
 
         return result;
     }
