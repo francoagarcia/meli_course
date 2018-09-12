@@ -4,6 +4,9 @@ import java.time.Clock;
 import java.time.LocalDate;
 import java.time.Period;
 
+/**
+ * Persona javadoc
+ */
 public class Persona {
 
     private String nombre;
@@ -25,4 +28,5 @@ public class Persona {
     public LocalDate getFechaNacimiento() {
         return fechaNacimiento;
     }
+
 }

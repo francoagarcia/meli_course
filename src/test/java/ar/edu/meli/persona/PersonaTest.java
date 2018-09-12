@@ -2,10 +2,7 @@ package ar.edu.meli.persona;
 
 import org.junit.Test;
 
-import java.time.Clock;
 import java.time.LocalDate;
-
-import static org.assertj.core.api.Assertions.assertThat;
 
 public class PersonaTest {
 
