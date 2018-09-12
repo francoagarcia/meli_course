@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ced08c6-954d-41aa-a92b-54107117d65c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IT-Accelerator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IT-Accelerator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ar/edu/meli/tragamonedas/TamborMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ar/edu/meli/tragamonedas/TamborMock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ar/edu/meli/tragamonedas/Tragamonedas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ar/edu/meli/tragamonedas/Tragamonedas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ar/edu/meli/tragamonedas/TragamonedasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ar/edu/meli/tragamonedas/TragamonedasTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/TamborMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/TamborMock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/Tragamonedas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/Tragamonedas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ar/edu/meli/tragamonedas/TragamonedasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ar/edu/meli/tragamonedas/TragamonedasTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ced08c6-954d-41aa-a92b-54107117d65c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +25,7 @@
           <entry key="class" value="1" />
           <entry key="classpath" value="2" />
           <entry key="iml" value="2" />
-          <entry key="java" value="90" />
+          <entry key="java" value="119" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
@@ -43,20 +34,20 @@
           <entry key="CLASS" value="1" />
           <entry key="Eclipse" value="2" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="90" />
+          <entry key="JAVA" value="119" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="83" />
-          <entry key="java" value="11563" />
+          <entry key="java" value="14788" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="83" />
-          <entry key="JAVA" value="11563" />
+          <entry key="JAVA" value="14788" />
         </counts>
       </usages-collector>
     </session>
@@ -67,55 +58,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/tragamonedas.txt">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Despachador.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/Tragamonedas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="312">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/tragamonedas/TragamonedasTest.java">
+        <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/envios/DespachadorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="136" column="8" lean-forward="true" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/TamborMock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/tragamonedas/TamborTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="217">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,19 +82,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/Tambor.java">
+        <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Envio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="108">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,6 +103,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -163,26 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IT-Accelerator.iml" />
-        <option value="$PROJECT_DIR$/test/ar/edu/meli/CerraduraTest.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/Cerradura.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/SaldoExcedidoException.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cuenta.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/CuentaSueldo.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/CajaDeAhorro.java" />
-        <option value="$PROJECT_DIR$/test/ar/edu/meli/cuentas/CuentaSueldoTest.java" />
-        <option value="$PROJECT_DIR$/test/ar/edu/meli/cuentas/CajaDeAhorroTest.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/CajaDeAhorroMultiCliente.java" />
-        <option value="$PROJECT_DIR$/test/ar/edu/meli/cuentas/CajaDeAhorroMulticanalTest.java" />
-        <option value="$PROJECT_DIR$/test/ar/edu/meli/cuentas/CajaDeAhorroMultiClienteTest.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/Banco.java" />
-        <option value="$PROJECT_DIR$/test/ar/edu/meli/cuentas/BancoTest.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/LimiteGiroDescubiertoException.java" />
-        <option value="$PROJECT_DIR$/test/ar/edu/meli/cuentas/CajaDeAhorroEspecialTest.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cliente.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/cuentas/CajaDeAhorroEspecial.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/Motor.java" />
-        <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Vehiculo.java" />
         <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Auto.java" />
         <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Uit.java" />
         <option value="$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Carga.java" />
@@ -214,6 +150,26 @@
         <option value="$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/TamborMock.java" />
         <option value="$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/Tragamonedas.java" />
         <option value="$PROJECT_DIR$/test/ar/edu/meli/tragamonedas/TragamonedasTest.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/Refrigerable.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/Motor.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/Refrigerante.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/MotorCombustible.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/MotorRefrigerable.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/MotorNuclear.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/motores/MotorSolar.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/Paquete.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/Calculante.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/Calculadora.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/CalculadoraOCA.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/Transporte.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/Asignador.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/AsignadorTransporte.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/NoSePuedeAsignarTransporteException.java" />
+        <option value="$PROJECT_DIR$/test/ar/edu/meli/envios/CalculadoraOCATest.java" />
+        <option value="$PROJECT_DIR$/test/ar/edu/meli/envios/AsignadorTransporteTest.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/Envio.java" />
+        <option value="$PROJECT_DIR$/src/ar/edu/meli/envios/Despachador.java" />
+        <option value="$PROJECT_DIR$/test/ar/edu/meli/envios/DespachadorTest.java" />
       </list>
     </option>
   </component>
@@ -223,9 +179,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -246,6 +203,29 @@
             <path>
               <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="meli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="meli" type="462c0819:PsiDirectoryNode" />
+              <item name="envios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT-Accelerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -259,7 +239,7 @@
               <item name="IT-Accelerator" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="meli" type="462c0819:PsiDirectoryNode" />
-              <item name="tragamonedas" type="462c0819:PsiDirectoryNode" />
+              <item name="envios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +252,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536333843365" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536350457290" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -286,10 +266,11 @@
       <recent name="ar.edu.meli.cerradura" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ar.edu.meli.envios" />
+      <recent name="ar.edu.meli.motores" />
       <recent name="ar.edu.meli.tragamonedas" />
       <recent name="ar.edu.meli.libreria" />
       <recent name="ar.edu.meli.playaestacionamiento" />
-      <recent name="ar.edu.meli.cuentas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ar/edu/meli/tragamonedas" />
@@ -308,34 +289,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TragamonedasTest.siCombinacionCorrectaPrimeraVezYSegundaNoDeberiaNoEntragarPemioSegunda">
-    <configuration name="TragamonedasTest.crearTragamonedasYGana" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DespachadorTest.procesarEnvioEnBicicletaDe3KG">
+    <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Accelerator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ar.edu.meli.tragamonedas.*" />
+          <option name="PATTERN" value="ar.edu.meli.envios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ar.edu.meli.tragamonedas" />
-      <option name="MAIN_CLASS_NAME" value="ar.edu.meli.tragamonedas.TragamonedasTest" />
-      <option name="METHOD_NAME" value="crearTragamonedasYGana" />
+      <option name="PACKAGE_NAME" value="ar.edu.meli.envios" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.meli.envios.AsignadorTransporteTest" />
+      <option name="METHOD_NAME" value="envioDemasiadoPesado" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TragamonedasTest.crearTragamonedasYVerificarPremio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculadoraOCATest.calcularCostoEnvioDe2Paquetes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Accelerator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ar.edu.meli.tragamonedas.*" />
+          <option name="PATTERN" value="ar.edu.meli.envios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ar.edu.meli.tragamonedas" />
-      <option name="MAIN_CLASS_NAME" value="ar.edu.meli.tragamonedas.TragamonedasTest" />
-      <option name="METHOD_NAME" value="crearTragamonedasYVerificarPremio" />
+      <option name="PACKAGE_NAME" value="ar.edu.meli.envios" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.meli.envios.CalculadoraOCATest" />
+      <option name="METHOD_NAME" value="calcularCostoEnvioDe2Paquetes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DespachadorTest.procesarEnvioEnBicicletaDe3KG" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IT-Accelerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.meli.envios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.meli.envios" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.meli.envios.DespachadorTest" />
+      <option name="METHOD_NAME" value="procesarEnvioEnBicicletaDe3KG" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -357,48 +354,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ar.edu.meli.playaestacionamiento in IT-Accelerator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ar.edu.meli.envios in IT-Accelerator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Accelerator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ar.edu.meli.playaestacionamiento.*" />
+          <option name="PATTERN" value="ar.edu.meli.envios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ar.edu.meli.playaestacionamiento" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="IT-Accelerator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ar.edu.meli.tragamonedas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ar.edu.meli.tragamonedas" />
+      <option name="PACKAGE_NAME" value="ar.edu.meli.envios" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ar.edu.meli.playaestacionamiento in IT-Accelerator" />
-      <item itemvalue="JUnit.ar.edu.meli.tragamonedas in IT-Accelerator" />
-      <item itemvalue="JUnit.TragamonedasTest.crearTragamonedasYVerificarPremio" />
-      <item itemvalue="JUnit.TragamonedasTest.crearTragamonedasYGana" />
       <item itemvalue="JUnit.TragamonedasTest.siCombinacionCorrectaPrimeraVezYSegundaNoDeberiaNoEntragarPemioSegunda" />
+      <item itemvalue="JUnit.CalculadoraOCATest.calcularCostoEnvioDe2Paquetes" />
+      <item itemvalue="JUnit.ar.edu.meli.envios in IT-Accelerator" />
+      <item itemvalue="JUnit.AsignadorTransporteTest.envioDemasiadoPesado" />
+      <item itemvalue="JUnit.DespachadorTest.procesarEnvioEnBicicletaDe3KG" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DespachadorTest.procesarEnvioEnBicicletaDe3KG" />
+        <item itemvalue="JUnit.ar.edu.meli.envios in IT-Accelerator" />
+        <item itemvalue="JUnit.AsignadorTransporteTest.envioDemasiadoPesado" />
+        <item itemvalue="JUnit.CalculadoraOCATest.calcularCostoEnvioDe2Paquetes" />
         <item itemvalue="JUnit.TragamonedasTest.siCombinacionCorrectaPrimeraVezYSegundaNoDeberiaNoEntragarPemioSegunda" />
-        <item itemvalue="JUnit.ar.edu.meli.tragamonedas in IT-Accelerator" />
-        <item itemvalue="JUnit.TragamonedasTest.crearTragamonedasYGana" />
-        <item itemvalue="JUnit.TragamonedasTest.crearTragamonedasYVerificarPremio" />
-        <item itemvalue="JUnit.ar.edu.meli.playaestacionamiento in IT-Accelerator" />
       </list>
     </recent_temporary>
   </component>
@@ -414,66 +397,65 @@
       <updated>1536153045467</updated>
       <workItem from="1536153047062" duration="1624000" />
       <workItem from="1536156290731" duration="17257000" />
-      <workItem from="1536192887146" duration="25494000" />
+      <workItem from="1536192887146" duration="35052000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 10h 45m 31s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 25m 24s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 10h 47m 34s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 25m 28s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TragamonedasTest_crearTragamonedasYGana - 2018.09.07 at 12h 09m 08s.xml">
-      <configuration name="TragamonedasTest.crearTragamonedasYGana" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 29m 33s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TragamonedasTest_crearTragamonedasYGana - 2018.09.07 at 12h 11m 59s.xml">
-      <configuration name="TragamonedasTest.crearTragamonedasYGana" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 30m 11s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 12h 13m 21s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 34m 31s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 12h 18m 11s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 36m 21s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 12h 18m 35s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 36m 31s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 12h 20m 09s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="AsignadorTransporteTest_envioDemasiadoPesado - 2018.09.07 at 16h 42m 37s.xml">
+      <configuration name="AsignadorTransporteTest.envioDemasiadoPesado" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 12h 20m 21s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="ar_edu_meli_envios_in_IT-Accelerator - 2018.09.07 at 16h 43m 07s.xml">
+      <configuration name="ar.edu.meli.envios in IT-Accelerator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ar_edu_meli_tragamonedas_in_IT-Accelerator - 2018.09.07 at 12h 21m 58s.xml">
-      <configuration name="ar.edu.meli.tragamonedas in IT-Accelerator" configurationId="JUnit" />
+    <history-entry file="DespachadorTest_procesarEnvioEnBicicletaDe3KG - 2018.09.07 at 16h 51m 42s.xml">
+      <configuration name="DespachadorTest.procesarEnvioEnBicicletaDe3KG" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44375000" />
+    <option name="totallyTimeSpent" value="53933000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.22317597" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.22317597" />
       <window_info id="Structure" order="1" sideWeight="0.50363195" side_tool="true" weight="0.14592275" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50363195" side_tool="true" weight="0.22317597" />
+      <window_info id="Favorites" order="6" sideWeight="0.5035461" side_tool="true" weight="0.22317597" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32765958" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.413253" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.41276595" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -487,23 +469,23 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.14592275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.22317597" />
       <window_info id="Structure" order="1" sideWeight="0.50363195" side_tool="true" weight="0.14592275" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50363195" side_tool="true" weight="0.14377682" />
+      <window_info id="Favorites" order="6" sideWeight="0.50363195" side_tool="true" weight="0.22317597" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32765958" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.4141844" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.413253" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -528,181 +510,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/cuentas/CuentaSueldoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="50" column="67" lean-forward="true" selection-start-line="50" selection-start-column="67" selection-end-line="50" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/cuentas/CajaDeAhorroMultiClienteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/cuentas/CajaDeAhorroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/LimiteGiroDescubiertoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/Motor.java" />
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cuenta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/CuentaSueldo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/cuentas/CajaDeAhorroEspecialTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/CajaDeAhorroMultiCliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-          <folding>
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/CajaDeAhorroEspecial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/CajaDeAhorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/Banco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/cuentas/BancoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/cuentas/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Vehiculo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Auto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/playaestacionamiento/PlayaEstacionamientoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Cargable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Volquete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="70" lean-forward="true" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/playaestacionamiento/Utilitario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -975,10 +782,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/tragamonedas/TragamonedasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="114" column="31" lean-forward="true" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/tragamonedas.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/TamborMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1009,40 +834,206 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/MotorCombustible.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="663" column="18" selection-start-line="663" selection-start-column="18" selection-end-line="663" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/TamborMock.java">
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/Motor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/Refrigerable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/Refrigerante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
           <folding>
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/MotorRefrigerable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/MotorSolar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/motores/MotorNuclear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/tragamonedas/Tragamonedas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="375">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="29" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/tragamonedas/TragamonedasTest.java">
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Paquete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="136" column="8" lean-forward="true" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Calculadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Asignador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/NoSePuedeAsignarTransporteException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding>
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/CalculadoraOCA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/envios/CalculadoraOCATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Transporte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="695" column="10" selection-start-line="695" selection-start-column="10" selection-end-line="695" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/AsignadorTransporte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/envios/AsignadorTransporteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="41" column="77" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Despachador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/edu/meli/envios/Envio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ar/edu/meli/envios/DespachadorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
